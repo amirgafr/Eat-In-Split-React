@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eat-In-Split-React/static/css/main.b136f054.css",
+    "main.js": "/Eat-In-Split-React/static/js/main.73b5a1ab.js",
+    "index.html": "/Eat-In-Split-React/index.html",
+    "main.b136f054.css.map": "/Eat-In-Split-React/static/css/main.b136f054.css.map",
+    "main.73b5a1ab.js.map": "/Eat-In-Split-React/static/js/main.73b5a1ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b136f054.css",
+    "static/js/main.73b5a1ab.js"
+  ]
+}
